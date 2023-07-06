@@ -14,5 +14,11 @@ button{
 p{
    width: 100%;
    height: 1.5rem;
-   background: black;
+   background: orange;
+}
+#button1{
+   width: 100%;
+}
+#button2{
+   height: 4.2rem;
 }
